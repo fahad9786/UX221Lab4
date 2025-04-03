@@ -1,4 +1,4 @@
-# cd-wordpress
+# UX221Lab4-wordpress
 continuous deployment wordpress
 
 TLDR;
