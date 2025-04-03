@@ -1,4 +1,4 @@
-# UX221Lab4-wordpress
+# wordpress-UX221Lab4
 continuous deployment wordpress
 
 TLDR;
